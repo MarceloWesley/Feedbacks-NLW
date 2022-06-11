@@ -1,5 +1,5 @@
 # About
-- This project was made at RocketSeat's NLW event, the project consists of a simple application to send feedbacks, the user chooses the type of feedback he wants to send and writes a message, the message will arrive in the developer's email and will be registered in the bank of data.
+- This project was made at RocketSeat's NLW event, the project consists of a simple application to send feedbacks, the user chooses the type of feedback he wants to send and writes a message, the message will arrive in the developer's email and will be registered in the Database.
 
 # Cloning the Project
 - You can cloning the project with ```git clone (SSH key or HTTP)```
