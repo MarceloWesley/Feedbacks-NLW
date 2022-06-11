@@ -20,3 +20,4 @@
 - NodeJs
 - Express
 - FaunaDB
+- Prisma
